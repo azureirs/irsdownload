@@ -24,7 +24,7 @@
 
                                                             <key>url</key>
 
-                                                            <string>http://irssoftware.dyndns.info/apple_ipa_internal/SalesTrace.ipa</string>
+                                                            <string>http://irssoftware.dyndns.info/OrderPointQC/IpadOrder.ipa</string>
 
                                                   </dict>
 
@@ -36,7 +36,7 @@
 
                                                             <key>bundle-identifier</key>
 
-                                                            <string>com.irs.SalesTrace</string>
+                                                            <string>com.irs.iOrderPoint</string>
 
                                                             <key>bundle-version</key>
 
@@ -48,7 +48,7 @@
 
                                                             <key>title</key>
 
-                                                            <string>SalesTrace</string>
+                                                            <string>OrderPoint QC</string>
 
                                                   </dict>
 
