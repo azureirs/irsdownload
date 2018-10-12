@@ -24,7 +24,7 @@
 
                                                             <key>url</key>
 
-                                                            <string>http://irssoftware.dyndns.info/itopup/itopup.ipa</string>
+                                                            <string>http://irssoftware.dyndns.info/gomana/gomana.ipa</string>
 
                                                   </dict>
 
@@ -36,7 +36,7 @@
 
                                                             <key>bundle-identifier</key>
 
-                                                            <string>com.irs.iTopUp</string>
+                                                            <string>com.irs.gomana</string>
 
                                                             <key>bundle-version</key>
 
@@ -48,7 +48,7 @@
 
                                                             <key>title</key>
 
-                                                            <string>iTopUp</string>
+                                                            <string>Gomana</string>
 
                                                   </dict>
 
